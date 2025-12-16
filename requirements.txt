@@ -1,0 +1,7 @@
+gymnasium
+highway-env
+stable-baselines3[extra]
+shimmy
+tensorboard
+matplotlib
+moviepy
